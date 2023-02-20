@@ -14,7 +14,7 @@ Meditations.deleteMany({})
     .then((newMeditations) => {
         console.log('Created a new meditation', newMeditations);
     })
-    .catcH(console.error)
+    .catch(console.error)
     .finally(() => {
         process.exit();
     });

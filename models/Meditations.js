@@ -6,9 +6,10 @@ const MeditationSchema = new mongoose.Schema({
     description: String,
     photo_url: String,
     audio: String,
+    timer: Number,
     liked: Boolean,
 })
 
-const Meditation = mongoose.Model('Meditations', MeditationSchema);
+const Meditations = mongoose.model('Meditations', MeditationSchema);
 
-module.exports = Meditation;
+module.exports = Meditations;
