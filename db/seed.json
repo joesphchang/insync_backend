@@ -1,6 +1,7 @@
 {
     "meditations": [
     {
+        "id": 1,
         "title": "Intro to Meditating",
         "genre": "intro",
         "description": "This is an intro to meditations. It will help you learn what it means to meditate and dive into deep breathing excersies.",
@@ -10,6 +11,7 @@
         "liked": false
     },
     {
+        "id": 2,
         "title": "Good Mornings",
         "genre": "morning",
         "description": "Wake up and meditate. Fuel your mornings with breathing excersises and how you want to tackle your day.",
@@ -19,6 +21,7 @@
         "liked": false
     },
     {
+        "id": 3,
         "title": "Relieve your Stress",
         "genre": "stress",
         "description": "Need some time to sit back? Relax? Meditation is a great way to deal with stress and allowing yourself to slow down.",
@@ -28,6 +31,7 @@
         "liked": false
     },
     {
+        "id": 4,
         "title": "Take some time to Breathe",
         "genre": "breathe",
         "description": "Short excersise to help you learn breathing excersies. This is recommended during the mid-day.",
@@ -37,6 +41,7 @@
         "liked": false
     },
     {
+        "id": 5,
         "title": "Body Scan",
         "genre": "focus",
         "description": "Losing focus? Body Scanning is a great form of meditation to help you ease back into focus. Allowing yourself to learn more about your breathe-work.",
@@ -46,6 +51,7 @@
         "liked": false
     },
     {
+        "id": 6,
         "title": "Sleep Meditations",
         "genre": "sleep",
         "description": "Finally. Made it through the day. Take this time to set yourself up to sleep soundingly. Allow yourself to reflect and appreciate what you did for yourself today. ",
@@ -55,6 +61,7 @@
         "liked": false
     },
     {
+        "id": 7,
         "title": "Slow Water",
         "genre": "sounds",
         "description": "Sounds that'll help you ease into meditation. Sometimes we need to feel like we're in a different place to focus.",
@@ -64,6 +71,7 @@
         "liked": false
     },
     {
+        "id": 8,
         "title": "Relaxing Rain",
         "genre": "sounds",
         "description": "Sounds that'll help you ease into meditation. Sometimes we need to feel like we're in a different place to focus.",

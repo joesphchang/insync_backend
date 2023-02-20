@@ -1,6 +1,7 @@
 const mongoose = require ('../db/connection');
 
 const MeditationSchema = new mongoose.Schema({
+    id: Number,
     title: String,
     genre: String,
     description: String,
