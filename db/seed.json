@@ -5,8 +5,8 @@
         "title": "Intro to Meditating",
         "genre": "intro",
         "description": "This is an intro to meditations. It will help you learn what it means to meditate and dive into deep breathing excersies.",
-        "photo_url": "../images/intro.png",
-        "audio": "../assets/Intro To Meditation Relaxation.mp3",
+        "photo_url": "https://i.imgur.com/C8K38ZN.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Intro%20To%20Meditation%20Relaxation.mp3?alt=media&token=d7a47b48-ce85-440c-bc2a-13ac492843f6",
         "timer": 15,
         "liked": false
     },
@@ -15,8 +15,8 @@
         "title": "Good Mornings",
         "genre": "morning",
         "description": "Wake up and meditate. Fuel your mornings with breathing excersises and how you want to tackle your day.",
-        "photo_url": "../images/morning.png",
-        "audio": "../assets/Morning Meditation.mp3",
+        "photo_url": "https://i.imgur.com/AGWM4qH.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Morning%20Meditation.mp3?alt=media&token=abc0b71b-e9f1-4036-9d40-3324815acd76",
         "timer": 10,
         "liked": false
     },
@@ -25,8 +25,8 @@
         "title": "Relieve your Stress",
         "genre": "stress",
         "description": "Need some time to sit back? Relax? Meditation is a great way to deal with stress and allowing yourself to slow down.",
-        "photo_url": "../images/stress.png",
-        "audio": "../assets/Overcoming Overwhelm Guided Visualisation.mp3",
+        "photo_url": "https://i.imgur.com/r3tHNYi.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Overcoming%20Overwhelm%20Guided%20Visualisation.mp3?alt=media&token=c1cbc751-6c8c-4294-9af6-eb68d8c9cac0",
         "timer": 15,
         "liked": false
     },
@@ -35,8 +35,8 @@
         "title": "Take some time to Breathe",
         "genre": "breathe",
         "description": "Short excersise to help you learn breathing excersies. This is recommended during the mid-day.",
-        "photo_url": "../images/breathe.png",
-        "audio": "../assets/Gratitude Best Day Visualisation.mp3",
+        "photo_url": "https://i.imgur.com/3oHB5HC.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Gratitude%20Best%20Day%20Visualisation.mp3?alt=media&token=efec0be6-8268-4961-b554-4662a3a4785e",
         "timer": 10,
         "liked": false
     },
@@ -45,8 +45,8 @@
         "title": "Body Scan",
         "genre": "focus",
         "description": "Losing focus? Body Scanning is a great form of meditation to help you ease back into focus. Allowing yourself to learn more about your breathe-work.",
-        "photo_url": "../images/focus.png",
-        "audio": "../assets/Body Scan Guided Visualisation.mp3",
+        "photo_url": "https://i.imgur.com/0zzB2AN.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Body%20Scan%20Guided%20Visualisation.mp3?alt=media&token=36c3f16d-6569-46cd-a557-aa86a2cd8a16",
         "timer": 10,
         "liked": false
     },
@@ -55,8 +55,8 @@
         "title": "Sleep Meditations",
         "genre": "sleep",
         "description": "Finally. Made it through the day. Take this time to set yourself up to sleep soundingly. Allow yourself to reflect and appreciate what you did for yourself today. ",
-        "photo_url": "../images/sleep.png",
-        "audio": "../assets/Sleep.mp3",
+        "photo_url": "https://i.imgur.com/nn5csSx.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Sleep.mp3?alt=media&token=b09116bb-490f-45c7-aff1-908ba9f5f372",
         "timer": 20,
         "liked": false
     },
@@ -65,8 +65,8 @@
         "title": "Slow Water",
         "genre": "sounds",
         "description": "Sounds that'll help you ease into meditation. Sometimes we need to feel like we're in a different place to focus.",
-        "photo_url": "../images/water.png",
-        "audio": "../assets/Meditation Music with Gentle Water Sounds.mp3",
+        "photo_url": "https://i.imgur.com/vhksQTi.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Meditation%20Music%20with%20Gentle%20Water%20Sounds.mp3?alt=media&token=894fe3fd-5a5a-41b0-8bca-ee637a3b3a20",
         "timer": 10,
         "liked": false
     },
@@ -75,8 +75,8 @@
         "title": "Relaxing Rain",
         "genre": "sounds",
         "description": "Sounds that'll help you ease into meditation. Sometimes we need to feel like we're in a different place to focus.",
-        "photo_url": "../images/rain.png",
-        "audio": "../assets/Heavy Rain Sound And Thunder Natural Sounds Relaxing Sleep.mp3",
+        "photo_url": "https://i.imgur.com/l9nP8D9.png",
+        "audio": "https://firebasestorage.googleapis.com/v0/b/insync-react-application.appspot.com/o/Heavy%20Rain%20Sound%20And%20Thunder%20Natural%20Sounds%20Relaxing%20Sleep.mp3?alt=media&token=aa0b44bf-6d2d-489c-81ee-f552891602c1",
         "timer": 10,
         "liked": false
     }
